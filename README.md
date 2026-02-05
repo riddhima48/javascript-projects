@@ -1,10 +1,10 @@
-🔹 Button Counter App
+***🔹 Button Counter App***
 
 A simple interactive counter application built using vanilla JavaScript.
 Users can increment, decrement, and reset a numeric counter through button clicks.
 -----
 
-🚀 Features
+ **Features**
 
  Increment counter
 
@@ -15,7 +15,7 @@ Users can increment, decrement, and reset a numeric counter through button click
  Real-time count display
  ------
 
- What I Learned
+ **What I Learned**
 
 DOM manipulation using JavaScript
 
@@ -24,8 +24,9 @@ Handling click events
 Writing reusable functions
 
 Applying basic logical thinking in UI behavior
+--------
 
-🛠️ Tech Stack
+**Tech Stack**
 
 HTML
 CSS
