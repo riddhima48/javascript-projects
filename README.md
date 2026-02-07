@@ -31,3 +31,36 @@ Applying basic logical thinking in UI behavior
 HTML
 CSS
 JavaScript (Vanilla)
+---------
+---------
+# ***🔹 Color Changer / Theme Switcher***
+
+**A simple interactive web application built using vanilla JavaScript.
+Users can change the background color dynamically using buttons, generate random colors, and switch between dark and light themes.**
+-------
+
+ ### **Features**
+
+ Change background color on button click
+
+ Generate random colors
+
+ Toggle between Dark Mode and Light Mode
+ ---------
+
+ ### **What I Learned**
+
+ Using arrays to store colors
+
+ Generating random values with Math.random()
+
+ Manipulating styles dynamically using JavaScript
+
+ Handling button click events
+ --------
+
+ ### **Tech Stack**
+
+**HTML**
+**CSS**
+**JavaScript (Vanilla)**
