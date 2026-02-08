@@ -64,3 +64,14 @@ Users can change the background color dynamically using buttons, generate random
 **HTML**
 **CSS**
 **JavaScript (Vanilla)**
+Separation of Concerns: HTML for structure, CSS for styling, JS for behavior
+
+Reusability: CSS/JS can be used across multiple HTML pages
+
+Caching: Browsers cache external files for faster loading
+
+Maintainability: Easier to manage and debug separate files
+
+Collaboration: Different team members can work on different files
+
+Organization: Cleaner, more professional project structure
