@@ -64,14 +64,37 @@ Users can change the background color dynamically using buttons, generate random
 **HTML**
 **CSS**
 **JavaScript (Vanilla)**
-Separation of Concerns: HTML for structure, CSS for styling, JS for behavior
+----------
+# ***🔹 Simple To-Do List App***
 
-Reusability: CSS/JS can be used across multiple HTML pages
+A beginner-friendly interactive to-do list application built using vanilla JavaScript. Users can add tasks, view them instantly, and delete tasks when completed.
+-----
 
-Caching: Browsers cache external files for faster loading
+ ### **Features**
 
-Maintainability: Easier to manage and debug separate files
+ Add new tasks to the list
 
-Collaboration: Different team members can work on different files
+ Delete tasks individually
 
-Organization: Cleaner, more professional project structure
+ Real-time task list updates
+
+ ------
+
+ ### **What I Learned**
+
+Storing and managing data using arrays
+
+Using loops to render dynamic lists
+
+Handling user actions with event listeners
+
+Adding and removing elements from the DOM
+--------
+
+### **Tech Stack**
+
+HTML
+CSS
+JavaScript (Vanilla)
+
+
