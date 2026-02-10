@@ -96,5 +96,20 @@ Adding and removing elements from the DOM
 HTML
 CSS
 JavaScript (Vanilla)
+------
 
+Features of this Task List Application:
+Modern, Responsive UI - Clean design with gradient backgrounds that works on mobile and desktop
+
+Task Management - Add, complete, and delete tasks
+
+Task Statistics - Shows total, completed, and pending tasks
+
+Persistent Storage - Tasks are saved to localStorage so they persist after page refresh
+
+Interactive Elements - Hover effects, transitions, and visual feedback
+
+Empty State - Shows a friendly message when there are no tasks
+
+Example Tasks - Pre-populated with example tasks on first visit
 
