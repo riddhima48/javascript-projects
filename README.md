@@ -113,3 +113,28 @@ Empty State - Shows a friendly message when there are no tasks
 
 Example Tasks - Pre-populated with example tasks on first visit
 
+----------
+📜 Random Quote Generator
+
+A simple and responsive Random Quote Generator built using HTML, CSS, and JavaScript.
+Click the button to display a new motivational quote instantly.
+
+🚀 Features
+
+Generates random quotes on button click
+
+Clean and modern UI
+
+Fully responsive layout
+
+Beginner-friendly project
+
+No external libraries used
+
+🛠️ Technologies Used
+
+HTML5 – Structure
+
+CSS3 – Styling & Layout
+
+JavaScript (Vanilla JS) – Functionality
