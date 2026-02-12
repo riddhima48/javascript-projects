@@ -138,3 +138,31 @@ HTML5 – Structure
 CSS3 – Styling & Layout
 
 JavaScript (Vanilla JS) – Functionality
+------
+# 🎨 Background Color Changer
+
+A simple JavaScript project that changes the background color of the webpage when a button is clicked.
+
+This project demonstrates DOM manipulation and random color generation using JavaScript.
+
+---
+
+## 🚀 Features
+
+- 🎲 Generates random background colors
+- 🖱️ Changes color on button click
+- 🎨 Displays current color code
+- 📱 Responsive and minimal UI
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+
+---
+
+## 📂 Project Structure
+
