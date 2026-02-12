@@ -166,3 +166,33 @@ This project demonstrates DOM manipulation and random color generation using Jav
 
 ## 📂 Project Structure
 
+-----
+# 🧮 Simple Calculator
+
+A basic calculator web application built using HTML, CSS, and JavaScript.  
+It performs standard arithmetic operations like addition, subtraction, multiplication, and division.
+
+---
+
+## 🚀 Features
+
+- ➕ Addition
+- ➖ Subtraction
+- ✖️ Multiplication
+- ➗ Division
+- 🧹 Clear button (AC)
+- ⌫ Delete last digit
+- 📱 Responsive design
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+
+---
+
+## 📂 Project Structure
+
